@@ -67,11 +67,11 @@
 </p>
 
 <p float="center">
-       <img src="https://github.com/Ushanshi-Sharma/Netflix-DA-Power-BI/assets/154740255/7707c564-f8aa-4b11-8e78-94387b78dc6b.jpg" height="250" />
+       <img src="https://github.com/Ushanshi-Sharma/Netflix-DA-Power-BI/assets/154740255/7707c564-f8aa-4b11-8e78-94387b78dc6b.jpg" height="500" />
    
 </p>
 
 <p float="center">
-       <img src="https://github.com/Ushanshi-Sharma/Netflix-DA-Power-BI/assets/154740255/9e730207-6cdd-4c69-9136-8a22de2f05f1.jpg" height="250" />
+       <img src="https://github.com/Ushanshi-Sharma/Netflix-DA-Power-BI/assets/154740255/9e730207-6cdd-4c69-9136-8a22de2f05f1.jpg" height="500" />
    
 </p>
