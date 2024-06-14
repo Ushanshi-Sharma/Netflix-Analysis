@@ -3,7 +3,7 @@ USE netflix;
 
 SELECT * FROM netflix_titles;
 
-SELECT count(*) FROM netflix_titles; -- LOADED DATA FROM PTHON
+SELECT count(*) FROM netflix_titles; -- LOADED DATA FROM PYTHON
 
 -- ------------ DATA CLEANING ---------------------------------------
 -- --------- Checking and removing duplicates -----------------------
